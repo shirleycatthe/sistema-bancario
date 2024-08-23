@@ -1,0 +1,25 @@
+git clone https://github.com/seu-usuario/sistema-bancario.git
+cd sistema-bancario
+git add .
+git commit -m "Initial commit with banking system implementation"
+git push origin main
+# Sistema Bancário
+
+Este projeto é uma implementação de um sistema bancário em Python. Ele permite gerenciar clientes e contas bancárias, incluindo operações de depósito, saque e extrato.
+
+## Funcionalidades
+
+- Adicionar clientes
+- Realizar depósitos e saques
+- Consultar extrato de conta
+
+## Requisitos
+
+- Python 3.x
+
+## Como Executar
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/sistema-bancario.git
+
